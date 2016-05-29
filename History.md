@@ -26,6 +26,8 @@ unreleased
     - IPv4 netmasks must be contingous
     - IPv6 addresses cannot be used as a netmask
     - deps: ipaddr.js@1.1.0
+  * qs@6.2.0
+    - Add `decoder` option in `parse` function
   * deps: range-parser@~1.1.0
     - Fix incorrectly returning -1 when there is at least one valid range
     - perf: remove internal function
