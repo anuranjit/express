@@ -24,6 +24,8 @@ unreleased
     - IPv4 netmasks must be contingous
     - IPv6 addresses cannot be used as a netmask
     - deps: ipaddr.js@1.1.0
+  * deps: vary@~1.1.0
+    - Only accept valid field names in the `field` argument
 
 4.13.4 / 2016-01-21
 ===================
